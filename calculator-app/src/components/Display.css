@@ -1,0 +1,17 @@
+.display {
+    background-color: #222;
+    color: #fff;
+    text-align: right;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.input {
+    height: 40px;
+}
+
+.result {
+    height: 40px;
+    font-size: 24px;
+    font-weight: bold;
+}

@@ -1,0 +1,12 @@
+.calculator {
+    width: 200px;
+    margin: 50px auto;
+    border: 2px solid #000;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.button-container {
+    display: flex;
+    flex-wrap: wrap;
+}

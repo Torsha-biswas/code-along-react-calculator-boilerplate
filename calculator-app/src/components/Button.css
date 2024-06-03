@@ -1,0 +1,13 @@
+.button {
+    width: 25%;
+    height: 50px;
+    font-size: 18px;
+    border: 1px solid #000;
+    background-color: #7762ef;
+    cursor: pointer;
+    outline: none;
+}
+
+.button:active {
+    background-color: #ccc;
+}
